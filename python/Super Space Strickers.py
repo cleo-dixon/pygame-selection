@@ -3,6 +3,7 @@ import random
 import sys
 import time
 
+#Author: Stephan Mclean
 WIDTH = 1200
 HEIGHT = 1000
 FPS = 60
