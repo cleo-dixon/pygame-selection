@@ -1,7 +1,7 @@
 import pygame
 import random 
 
-
+#Author: Tashiek Abdul
 pygame.init() 
 
 # load and play music (Background music the rest are called throughout the game)
