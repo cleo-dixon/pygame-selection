@@ -2,6 +2,8 @@ import pygame
 import random
 import pandas as pd
 
+#Author: Cleo Dixon
+
 # Initialize Pygame
 pygame.init()
 
